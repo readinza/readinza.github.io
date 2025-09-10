@@ -1,7 +1,3 @@
-layout: page
-title: "Readinza"
-permalink: /
-
 # Readinza
 
 * [Readinza,ipa](files/Readinza.ipa)
