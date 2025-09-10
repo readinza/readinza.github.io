@@ -4,6 +4,6 @@ permalink: /
 
 # Readinza
 
-[Download Readinza,ipa](files/Readinza.ipa)
-[Download apps,json](files/apps.json)
+[Readinza,ipa](files/Readinza.ipa)
+[apps,json](files/apps.json)
 
