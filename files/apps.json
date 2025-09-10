@@ -6,14 +6,14 @@
       "name": "Readinza",
       "bundleIdentifier": "com.github.readinza.Readinza",
       "developerName": "Readinza",
-      "version": "0.0.7",
-      "versionDate": "2025-09-10T21:00:48Z",
+      "version": "0.0.9",
+      "versionDate": "2025-09-10T21:13:31Z",
       "versionDescription": "Update release.",
       "downloadURL": "https://readinza.github.io/files/Readinza.ipa",
       "localizedDescription": "Readinza",
       "iconURL": "https://readinza.github.io/files/readinza.png",
       "tintColor": "018084",
-      "size": 13065004,
+      "size": 13065005,
       "screenshotURLs": []
     }
   ]
