@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile 
 title: Readinza
 description: Readinza
+plugins:
+  - jekyll-seo-tag
